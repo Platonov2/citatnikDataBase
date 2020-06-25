@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "citatas": [
+    { "citataId": 1, "title": "Title1", "content": "Content1", "creationDate": "09.06.2020 17:47:30" },
+    { "citataId": 2, "title": "Title2", "content": "Content2", "creationDate": "10.07.2020 18:48:31" },
+    { "citataId": 3, "title": "Title3", "content": "Content3", "creationDate": "11.08.2020 19:49:32" },
+    { "citataId": 4, "title": "Title4", "content": "Content4", "creationDate": "12.09.2020 20:50:33" },
+    { "citataId": 5, "title": "Title5", "content": "Content5", "creationDate": "13.10.2020 21:51:34" }
+  ]
 }
